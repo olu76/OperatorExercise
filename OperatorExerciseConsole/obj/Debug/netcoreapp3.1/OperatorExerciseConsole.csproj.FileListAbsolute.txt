@@ -1,0 +1,14 @@
+C:\Users\midas\source\repos\OperatorExercise\OperatorExerciseConsole\bin\Debug\netcoreapp3.1\OperatorExerciseConsole.exe
+C:\Users\midas\source\repos\OperatorExercise\OperatorExerciseConsole\bin\Debug\netcoreapp3.1\OperatorExerciseConsole.deps.json
+C:\Users\midas\source\repos\OperatorExercise\OperatorExerciseConsole\bin\Debug\netcoreapp3.1\OperatorExerciseConsole.runtimeconfig.json
+C:\Users\midas\source\repos\OperatorExercise\OperatorExerciseConsole\bin\Debug\netcoreapp3.1\OperatorExerciseConsole.runtimeconfig.dev.json
+C:\Users\midas\source\repos\OperatorExercise\OperatorExerciseConsole\bin\Debug\netcoreapp3.1\OperatorExerciseConsole.dll
+C:\Users\midas\source\repos\OperatorExercise\OperatorExerciseConsole\bin\Debug\netcoreapp3.1\OperatorExerciseConsole.pdb
+C:\Users\midas\source\repos\OperatorExercise\OperatorExerciseConsole\obj\Debug\netcoreapp3.1\OperatorExerciseConsole.csproj.AssemblyReference.cache
+C:\Users\midas\source\repos\OperatorExercise\OperatorExerciseConsole\obj\Debug\netcoreapp3.1\OperatorExerciseConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\midas\source\repos\OperatorExercise\OperatorExerciseConsole\obj\Debug\netcoreapp3.1\OperatorExerciseConsole.AssemblyInfoInputs.cache
+C:\Users\midas\source\repos\OperatorExercise\OperatorExerciseConsole\obj\Debug\netcoreapp3.1\OperatorExerciseConsole.AssemblyInfo.cs
+C:\Users\midas\source\repos\OperatorExercise\OperatorExerciseConsole\obj\Debug\netcoreapp3.1\OperatorExerciseConsole.csproj.CoreCompileInputs.cache
+C:\Users\midas\source\repos\OperatorExercise\OperatorExerciseConsole\obj\Debug\netcoreapp3.1\OperatorExerciseConsole.dll
+C:\Users\midas\source\repos\OperatorExercise\OperatorExerciseConsole\obj\Debug\netcoreapp3.1\OperatorExerciseConsole.pdb
+C:\Users\midas\source\repos\OperatorExercise\OperatorExerciseConsole\obj\Debug\netcoreapp3.1\OperatorExerciseConsole.genruntimeconfig.cache
